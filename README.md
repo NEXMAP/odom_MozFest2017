@@ -8,6 +8,7 @@ First of all, welcome! And thanks so much for stopping by our project!! Open Dat
 * [Who are we?](#who-are-we)
 * [What do we need?](#what-do-we-need)
 * [How can you get involved?](#get-involved)
+* [Find us at Mozfest 2017!!](#mozfest)
 
 ## Problem Statement
 How might we use paper, low-cost hardware, and the web to: 1) serve and display ambient live data and 2) support learning about science and data through curated and personal data collection?
@@ -59,3 +60,6 @@ If you want to work with us in person, our workspace in San Francisco, [Manylabs
 Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
 
 Thank you! Thank you!
+
+## MozFest
+We are so excited to be going to Mozfest! Join us at the there October 27-29, 2017 at Ravensbourne College, London! We'll be meeting in person to collaborate on this project and learn from each other. Read more about our session [https://github.com/MozillaFoundation/mozfest-program-2017/issues/717]! We are scheduling meetings with people ahead of time so feel free to reach out to Elisabeth beforehand either via email (lisard at gmail) or [Twitter](https://twitter.com/lisard).
