@@ -55,7 +55,7 @@ We need data lovers, statistics gurus, learners, educators, evaluation researche
 
 We are so excited to be going to Mozfest! Join us at the there October 27-29, 2017 at Ravensbourne College, London! We'll be meeting in person to collaborate on this project and learn from each other. Read more about our session [https://github.com/MozillaFoundation/mozfest-program-2017/issues/717]! We are scheduling meetings with people ahead of time so feel free to reach out to Elisabeth beforehand either via email (lisard at gmail) or [Twitter](https://twitter.com/lisard).
 
-Even if you aren't going to Mozfest, you can still get involved! <b>Check out our [issues](ISSUES.md) page for specific ways you can contribute!</b> Each issue explains where and how to make a particular contribution. Generally we ask you add comments to the issue or work on a linked Google Doc. If you don't understand what we are asking for or you want to help in other ways, get in touch with Elisabeth or [open a new issue](../../issues).
+Even if you aren't going to Mozfest, you can still get involved! <b>Check out our [issues](../../issues) page for specific ways you can contribute!</b> Each issue explains where and how to make a particular contribution. Generally we ask you add comments to the issue or work on a linked Google Doc. If you don't understand what we are asking for or you want to help in other ways, get in touch with Elisabeth or [open a new issue](../../issues).
 
 Consider following [our nonprofit, Nexmap, on Twitter](http://twitter.com/sfnexmap) and joining [our 21st Century Notebooking Google+ group](https://plus.google.com/u/0/communities/106297899247135466221?cfem=1).
 
