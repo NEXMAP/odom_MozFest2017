@@ -7,13 +7,13 @@ Welcome and thanks for stopping by ODOM!! Open Data/Open Minds (ODOM) is a progr
 * [What are we doing?](#what-are-we-doing)
 * [Who are we?](#who-are-we)
 * [What do we need?](#what-do-we-need)
-* [Find us at Mozfest 2017 and beyond!!](#mozFest-and-getting-involved!)
+* [Find us at Mozfest 2017 and beyond!!](#mozfest-and-getting-involved)
 
 ## Project Overview
 Open Data/Open Minds connects people to real-world data through hands-on work with paper circuitry.  
 
 ## What are we doing?
-<i>Heads up! The materials shown here are about 6 months old. We'll be updating this site by 10/24/2017 with the new materials we are revealing at MozFest!</a>
+<i>Heads up! The materials shown here are about 6 months old. We'll be updating this site by 10/24/2017 with the new materials we are revealing at MozFest!</i>
 
 Open Data/Open Minds (ODOM) supports communities  to tell the stories of their local environmental and civic concerns using science journaling, crafted visualization, and data investigation.
  
@@ -51,7 +51,7 @@ We need data lovers, statistics gurus, learners, educators, evaluation researche
 * evaluating and making suggestions for the technology and science behind our planned statistics and graphics generator 
 * suggesting and helping us think through architectural and technical issues
 
-## MozFest and getting involved!
+## MozFest and getting involved
 
 We are so excited to be going to Mozfest! Join us at the there October 27-29, 2017 at Ravensbourne College, London! We'll be meeting in person to collaborate on this project and learn from each other. Read more about our session [https://github.com/MozillaFoundation/mozfest-program-2017/issues/717]! We are scheduling meetings with people ahead of time so feel free to reach out to Elisabeth beforehand either via email (lisard at gmail) or [Twitter](https://twitter.com/lisard).
 
