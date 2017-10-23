@@ -1,6 +1,6 @@
 # Open Data/Open Minds 
 
-<p><img src="http://www.lisard.com/images/IMG_5316.JPG" width=400 alt="Austin Data Dashboard" align=left> 
+<p><img src="http://www.lisard.com/images/IMG_5316.JPG" width=425 alt="Austin Data Dashboard" align=left> 
 Welcome and thanks for stopping by ODOM!! Open Data/Open Minds (ODOM) is a program that supports people to tell local environmental and community stories through data investigations, science notebooking and civic engagement. And we are hoping you can help! We'll be at Mozfest in the Decentralization Gallery and be giving a talk on Sunday in Decentralization from 3:15-4:15. (The guide says we go until 5:30, but that's incorrect.) </p>
 
 * [Project Overview](#project-overview)
