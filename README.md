@@ -1,7 +1,9 @@
 # Open Data/Open Minds 
 
 <p><img src="http://www.lisard.com/images/IMG_5316.JPG" width=425 alt="Austin Data Dashboard" align=left> 
-Welcome and thanks for stopping by ODOM!! Open Data/Open Minds (ODOM) is a program that supports people to tell local environmental and community stories through data investigations, science notebooking and civic engagement. And we are hoping you can help! We'll be at Mozfest in the Decentralization Gallery and be giving a talk on Sunday in Decentralization from 3:15-4:15. (The guide says we go until 5:30, but that's incorrect.) </p>
+Welcome and thanks for stopping by ODOM!! Open Data/Open Minds (ODOM) is a program that supports people to tell local environmental and community stories through data investigations, science notebooking and civic engagement. And we are hoping you can help! </p>
+
+<p>We'll be at Mozfest 1) on Friday demoing at the Science Faire 2) with an interactive in the in the Decentralization Gallery and 3) facilitating a talk on Sunday in Decentralization from 3:15-4:15. (The guide says we go until 5:30, but that's incorrect.) </p>
 
 * [Project Overview](#project-overview)
 * [What are we doing?](#what-are-we-doing)
@@ -17,24 +19,18 @@ Open Data/Open Minds (ODOM) supports communities  to tell the stories of their l
  
 The program is composed of a series of data investigation activities that start as extremely basic and work up to more complex data investigations. We are excited to share two new developments in our work. First that we will be bundling our activity sets to work with Chibitronics new notebook:
 
-
+![alt text](http://lisard.com/images/Screen%20Shot%202017-10-10%20at%2010.28.15%20AM.png "Starter Kit Components")
+![alt text](http://lisard.com/images/Screen%20Shot%202017-10-10%20at%2010.27.38%20AM.png "Picture of the Actual Kit")
 
 Here's what the paper activity pages look like and you can find [pdfs of these and  other worksheets in this directory](https://drive.google.com/drive/folders/0B8MEcymBo7h8YTBCU0tQRXdjOG8?usp=sharing):
 
 ![alt text](http://www.lisard.com/wp-content/uploads/2013/03/CreativeProcessWorksheet-174x174.png "Creative Process Worksheet")
 ![alt text](http://www.lisard.com/wp-content/uploads/2013/03/ResearchProcessWorksheet-174x174.png "Research Process Worksheet")
 
-The activities are enabled by a set of hardware data collection and visualization tools, still in protytpe form. Here's what they look like  and you can find [full sized images in this directory](https://drive.google.com/drive/folders/0B8MEcymBo7h8RVBORmdEdFczRDA?usp=sharing):
 
-![alt text](http://www.lisard.com/wp-content/uploads/2017/04/ODOMprototypeFrontCoverUSB-174x174.jpg "Science Journal")
-![alt text](http://www.lisard.com/wp-content/uploads/2013/03/NataliesPrototypeTightCropWebSize-174x174.jpg "Data Collector")
-![alt text](http://www.lisard.com/wp-content/uploads/2017/04/ODOMprototypePageTurn-174x174.jpg "Demonstrating Turning Pages in Journal Prototype") 
-![alt text](http://www.lisard.com/wp-content/uploads/2017/04/ODOMprototypeUSBClipBoard-174x174.jpg "Clipboard Prototype Plugged In")
-![alt text](http://www.lisard.com/wp-content/uploads/2017/04/ODOMprototypeLEDClipboard-174x174.jpg "Clipboard Prototype Example Vizualization")
+We've run professional developments for teachers with these materials in the spring and summer of 2017 and are refining the materials so we can have more people. 
 
-We've run professional developments for teachers with these materials in the spring of 2017 and are refining the materials now so that we can do more of them in the summer. 
-
-For more detail about the project, check out materials in [this Google Drive folder](https://drive.google.com/drive/folders/0B8MEcymBo7h8OUpHVkFBOG0xS0E?usp=sharing). You might want to start with the [Project Vision and Goals](https://docs.google.com/document/d/12yEp6Rg0VhgX0aM_Hl7zGy6DpqGKIa7Nn9O9P0VgFR0/edit?usp=sharing) and the [Technology Objectives](https://drive.google.com/open?id=1l1jCFNRfb0_I4zldiBTfecxD4fqWlZFUCq8y72VofPg). 
+To get into the weeds of the materials, look in [this Google Drive folder](https://drive.google.com/drive/folders/0B8MEcymBo7h8OUpHVkFBOG0xS0E?usp=sharing). You might want to start with the [Project Vision and Goals](https://docs.google.com/document/d/12yEp6Rg0VhgX0aM_Hl7zGy6DpqGKIa7Nn9O9P0VgFR0/edit?usp=sharing) and the [Technology Objectives](https://drive.google.com/open?id=1l1jCFNRfb0_I4zldiBTfecxD4fqWlZFUCq8y72VofPg). 
 
 ## Who are we?
 
