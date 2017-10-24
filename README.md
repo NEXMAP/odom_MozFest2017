@@ -28,7 +28,7 @@ Here's what the paper activity pages look like and you can find [pdfs of these a
 ![alt text](http://www.lisard.com/wp-content/uploads/2013/03/CreativeProcessWorksheet-174x174.png "Creative Process Worksheet")
 ![alt text](http://www.lisard.com/wp-content/uploads/2013/03/ResearchProcessWorksheet-174x174.png "Research Process Worksheet")
 
-
+<BR clear=all>
 We've run professional developments for teachers with these materials in the spring and summer of 2017 and are refining the materials so we can have more people. 
 
 To get into the weeds of the materials, look in [this Google Drive folder](https://drive.google.com/drive/folders/0B8MEcymBo7h8OUpHVkFBOG0xS0E?usp=sharing). You might want to start with the [Project Vision and Goals](https://docs.google.com/document/d/12yEp6Rg0VhgX0aM_Hl7zGy6DpqGKIa7Nn9O9P0VgFR0/edit?usp=sharing) and the [Technology Objectives](https://drive.google.com/open?id=1l1jCFNRfb0_I4zldiBTfecxD4fqWlZFUCq8y72VofPg). 
