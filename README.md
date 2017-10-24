@@ -13,11 +13,13 @@ Welcome and thanks for stopping by ODOM!! Open Data/Open Minds (ODOM) is a progr
 Open Data/Open Minds connects people to real-world data through hands-on work with paper circuitry.  
 
 ## What are we doing?
-<i>Heads up! The materials shown here are about 6 months old. We'll be updating this site by 10/24/2017 with the new materials we are revealing at MozFest!</i>
-
 Open Data/Open Minds (ODOM) supports communities  to tell the stories of their local environmental and civic concerns using science journaling, crafted visualization, and data investigation.
  
-The program is composed of a series of data investigation activities that start as extremely basic and work up to more complex data investigations. Here's what the paper activity pages look like and you can find [pdfs of these and  other worksheets in this directory](https://drive.google.com/drive/folders/0B8MEcymBo7h8YTBCU0tQRXdjOG8?usp=sharing):
+The program is composed of a series of data investigation activities that start as extremely basic and work up to more complex data investigations. We are excited to share two new developments in our work. First that we will be bundling our activity sets to work with Chibitronics new notebook:
+
+
+
+Here's what the paper activity pages look like and you can find [pdfs of these and  other worksheets in this directory](https://drive.google.com/drive/folders/0B8MEcymBo7h8YTBCU0tQRXdjOG8?usp=sharing):
 
 ![alt text](http://www.lisard.com/wp-content/uploads/2013/03/CreativeProcessWorksheet-174x174.png "Creative Process Worksheet")
 ![alt text](http://www.lisard.com/wp-content/uploads/2013/03/ResearchProcessWorksheet-174x174.png "Research Process Worksheet")
