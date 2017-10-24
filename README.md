@@ -19,8 +19,9 @@ Open Data/Open Minds (ODOM) supports communities  to tell the stories of their l
  
 The program is composed of a series of data investigation activities that start as extremely basic and work up to more complex data investigations. We are excited to share two new developments in our work. First that we will be bundling our activity sets to work with Chibitronics new notebook:
 
-![alt text](http://lisard.com/images/Screen%20Shot%202017-10-10%20at%2010.28.15%20AM.png "Starter Kit Components")
-![alt text](http://lisard.com/images/Screen%20Shot%202017-10-10%20at%2010.27.38%20AM.png "Picture of the Actual Kit")
+<img src="http://lisard.com/images/Screen%20Shot%202017-10-10%20at%2010.28.15%20AM.png" height=300 alt="Starter Kit Components Image" align=left> 
+
+<img src="http://lisard.com/images/Screen%20Shot%202017-10-10%20at%2010.27.38%20AM.png" height=300 alt="Picture of the Kit" align=left> 
 
 Here's what the paper activity pages look like and you can find [pdfs of these and  other worksheets in this directory](https://drive.google.com/drive/folders/0B8MEcymBo7h8YTBCU0tQRXdjOG8?usp=sharing):
 
