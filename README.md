@@ -23,6 +23,7 @@ The program is composed of a series of data investigation activities that start 
 
 <img src="http://lisard.com/images/Screen%20Shot%202017-10-10%20at%2010.27.38%20AM.png" height=300 alt="Picture of the Kit" align=left> 
 
+<BR clear=all>
 Here's what the paper activity pages look like and you can find [pdfs of these and  other worksheets in this directory](https://drive.google.com/drive/folders/0B8MEcymBo7h8YTBCU0tQRXdjOG8?usp=sharing):
 
 ![alt text](http://www.lisard.com/wp-content/uploads/2013/03/CreativeProcessWorksheet-174x174.png "Creative Process Worksheet")
