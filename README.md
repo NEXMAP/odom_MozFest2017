@@ -3,7 +3,7 @@
 <p><img src="http://www.lisard.com/images/IMG_5316.JPG" width=425 alt="Austin Data Dashboard" align=left> 
 Welcome and thanks for stopping by ODOM!! Open Data/Open Minds (ODOM) is a program that supports people to tell local environmental and community stories through data investigations, science notebooking and civic engagement. And we are hoping you can help! </p>
 
-<p>We'll be at Mozfest 1) on Friday demoing at the Science Faire 2) with an interactive in the in the Decentralization Gallery and 3) facilitating a talk on Sunday in Decentralization from 3:15-4:15. (The guide says we go until 5:30, but that's incorrect.) </p>
+<p>We'll be at Mozfest 1) on Friday demoing at the Science Faire 2) with an interactive in the in the Decentralization Gallery and 3) facilitating a talk on Sunday in Decentralization from 3:15-4:15. (The guide may say something different but this is the correct time.) </p>
 
 * [Project Overview](#project-overview)
 * [What are we doing?](#what-are-we-doing)
@@ -55,7 +55,7 @@ We need data lovers, statistics gurus, learners, educators, evaluation researche
 
 We are so excited to be going to Mozfest! Join us at the there! Read more about our session [https://github.com/MozillaFoundation/mozfest-program-2017/issues/717]! We are scheduling meetings with people ahead of time so feel free to reach out to Elisabeth beforehand either via email (lisard at gmail) or [Twitter](https://twitter.com/lisard).
 
-We'll be at Mozfest in the Decentralization Gallery and be giving a talk on Sunday in Decentralization from 3:15-4:15. (The guide says we go until 5:30, but that's incorrect.) 
+We'll be at Mozfest in the Decentralization Gallery and be giving a talk on Sunday in Decentralization from 3:15-4:15. (The guide may say something different but this is the correct time.) 
 
 Even if you aren't going to Mozfest, you can still get involved! <b>Check out our [issues](../../issues) page for specific ways you can contribute!</b> Each issue explains where and how to make a particular contribution. Generally we ask you add comments to the issue or work on a linked Google Doc. If you don't understand what we are asking for or you want to help in other ways, get in touch with Elisabeth or [open a new issue](../../issues).
 
